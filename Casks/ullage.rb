@@ -5,8 +5,8 @@
 #     brew install --cask fr1eddy/ullage/ullage
 #
 cask "ullage" do
-  version "0.1.0"
-  sha256 "1a4f26d4f2242ed8ddccc9baa0755c6692f8151e72685544f7715c63424bd974"
+  version "0.1.1"
+  sha256 "3aae7585c26d9741c6dc8e96c804cbc26f1b6ba1a98278eac9921072011a1eed"
 
   url "https://github.com/FR1EDDY/Ullage/releases/download/v#{version}/Ullage-#{version}.dmg"
   name "Ullage"
